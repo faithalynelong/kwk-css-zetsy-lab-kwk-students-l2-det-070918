@@ -12,9 +12,17 @@ body {
 
 .wrapper {
 	width: 960px;
-	margin: 0 auto;
+	margin: 00 auto;
 	background: #fff;
 	padding: 0 45px 20px;
 }
 
 /* Write all remaining styles here */
+.zesty{
+  color: #66B895;
+  font-size: 50%;
+}
+h1 {
+   color: rgb(152,173,166);
+   text-decoration: none;
+}
